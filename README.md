@@ -1,6 +1,6 @@
 # Viral-Genome-Analysis
 
-### Please donot run any other py files.
+### Please donot run any other py files except mentioned in the following.
 
 
 main.py  - generates all the kmer frequencies with two genomes
