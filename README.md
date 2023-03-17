@@ -2,6 +2,7 @@
 
 ### Please donot run any other py files.
 
+
 main.py  - generates all the kmer frequencies with two genomes
 
     -file1 : input first viral genome
@@ -13,6 +14,7 @@ main.py  - generates all the kmer frequencies with two genomes
     
 
 jacard_full.py : calculates the jacard coefficients over all the sequences in a directory
+
     -path : path to the directory of the genomes
     --k : kmer search starts
     --max_k : max kmer size to be searched
@@ -21,6 +23,7 @@ jacard_full.py : calculates the jacard coefficients over all the sequences in a 
     
 
 cosine_vec.py : calculates the cosine similairty over all the sequences in a directory
+
     -path : path to the directory of the genomes
     --k : kmer search starts
     --max_k : max kmer size to be searched
